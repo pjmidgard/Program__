@@ -23,7 +23,7 @@ if namez=="ul":
     e2=0
     e3=2
     e2i=0
-    e3i=2
+    e3i=3
     e4=""
     c=2
     sw=2
@@ -171,7 +171,7 @@ if namez=="ul":
                     
                     
              
-                if cvf==16+4:
+                if cvf==24+4:
                     sw=2
                     cvf=2
                     cvf1=cvf1+1
@@ -189,8 +189,8 @@ if namez=="ul":
                     c=2
                     sw=2
                     elw=0
-                    e2i=e2i+2
-                    e3i=e3i+2
+                    e2i=e2i+3
+                    e3i=e3i+3
 
                 if cvf1>=lenf6:
                     cvf2=cvf1
@@ -242,7 +242,7 @@ if namez=="cl":
     e2=0
     e3=2
     e2i=0
-    e3i=2
+    e3i=3
     e4=""
     c=2
     sw=2
@@ -282,7 +282,7 @@ if namez=="cl":
         
         qqqwz=0
 
-        lenf6=lenf5/2
+        lenf6=lenf5/3
         lenf6=lenf6+1
         while assx<10:
       
@@ -356,8 +356,8 @@ if namez=="cl":
                     c=2
                     sw=2
                     elw=0
-                    e2i=e2i+2
-                    e3i=e3i+2
+                    e2i=e2i+3
+                    e3i=e3i+3
 
                 if cvf1>=lenf6:
                     cvf2=cvf1
