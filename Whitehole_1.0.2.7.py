@@ -63,7 +63,7 @@ if namez=="ul":
         assx=0
         qqqwz=0
 
-        lenf6=lenf5/2
+        lenf6=lenf5/3
         lenf6=lenf6+1
        
         while assx<10:
@@ -338,7 +338,7 @@ if namez=="cl":
                     
                     
              
-                if cvf==16+4:
+                if cvf==24+4:
                     sw=2
                     cvf=2
                     cvf1=cvf1+1
@@ -391,7 +391,7 @@ if namez=="cl":
 
                     sssssw=len(jl)
                         
-                    jl = jl[2:]
+                    jl = jl[3:]
 
                     assx=10
                     if assx==10:
